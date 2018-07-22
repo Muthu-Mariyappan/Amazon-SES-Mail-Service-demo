@@ -6,7 +6,6 @@
 
 **Please follow the link below to setup and run the application**
 
-	[Send an Email Using the AWS SDK for Java] (https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-using-sdk-java.html)
-	
-	
+[Send an Email Using the AWS SDK for Java] (https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-using-sdk-java.html)
+
 >Note: This project has no build errors, but not tested with real aws credentials and verified email addresses 
